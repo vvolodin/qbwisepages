@@ -33,4 +33,4 @@ In no event shall Devmiles OÜ be liable for any indirect, incidental, special, 
 For questions regarding this license or QBWise, please contact:
 
 Devmiles OÜ Legal & Compliance  
-Email: legal@devmiles.com
+Email: info@devmiles.com
