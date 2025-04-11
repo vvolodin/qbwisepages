@@ -6,7 +6,7 @@ Welcome to the official internal documentation site for QBWise — a private Qui
 
 ## Legal Documents
 
-- [License Agreement](LICENSE.md)  
+- [License Agreement](eula.md)  
   Terms and conditions for internal use of QBWise within Devmiles OÜ.
 
 - [Privacy Policy](PRIVACY.md)  
